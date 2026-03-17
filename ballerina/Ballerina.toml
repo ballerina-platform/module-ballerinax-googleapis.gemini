@@ -1,12 +1,12 @@
 [package]
-distribution = "2201.10.0"
+distribution = "2201.12.0"
 org = "ballerinax"
 name = "googleapis.gemini"
-version = "0.1.0"
+version = "1.0.0"
 license = ["Apache-2.0"]
 authors = ["Ballerina"]
-keywords = []
-# icon = "icon.png" # TODO: update icon.png
+keywords = ["AI/Chat", "Cost/Paid", "Gemini-2.5-Flash", "Gemini-2.5-Pro", "Multimodal", "Text Generation", "Image Understanding", "Video Processing", "Audio Analysis", "Function Calling", "Code Execution", "Embeddings", "Vendor/Google"]
+icon = "icon.png"
 repository = "https://github.com/ballerina-platform/module-ballerinax-googleapis.gemini"
 
 [build-options]
